@@ -9,7 +9,7 @@ The **Student Onboarding Plugin** is a custom WordPress plugin that provides a s
 
 1. **Download or Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/student-onboarding-plugin.git
+   git clone https://github.com/parallelframe/student-onboarding-plugin.git
    ```
 
 2. **Copy Plugin to WordPress Plugins Directory:**
